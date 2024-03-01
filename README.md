@@ -75,5 +75,5 @@ git pull origin branchname
 
 ## Additional Resources
 1. Git documentation <a href="https://git-scm.com/docs" target="_blank">link</a>
-2. Pro Git Book <a href="[https://git-scm.com/docs](https://git-scm.com/book/en/v2)https://git-scm.com/book/en/v2" target="_blank">link</a>
+2. Pro Git Book <a href="https://git-scm.com/book/en/v2" target="_blank">link</a>
 
