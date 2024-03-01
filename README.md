@@ -11,8 +11,8 @@ Welcome to the Git and GitHub tutorial repository! This guide is designed to hel
 5. Additional Resources
 
 ## Getting Started
-To begin, make sure you have Git installed on your system. You can download and install Git from [link](doc:https://git-scm.com/downloads#link)
-<a href="https://git-scm.com/downloa" target="_blank">link</a>
+To begin, make sure you have Git installed on your system. You can download and install Git from 
+<a href="https://git-scm.com/downloads" target="_blank">link</a>
 Next, configure Git with your username and email address using the following commands:
 ```
 git config --global user.name "Your Name"
@@ -74,6 +74,6 @@ git pull origin branchname
 ```
 
 ## Additional Resources
-1. Git documentation: [link](doc:https://git-scm.com/docs)
-2. Pro Git Book: [link](doc:https://git-scm.com/book/en/v2)
+1. Git documentation <a href="https://git-scm.com/docs" target="_blank">link</a>
+2. Pro Git Book <a href="[https://git-scm.com/docs](https://git-scm.com/book/en/v2)https://git-scm.com/book/en/v2" target="_blank">link</a>
 
