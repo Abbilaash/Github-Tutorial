@@ -12,6 +12,7 @@ Welcome to the Git and GitHub tutorial repository! This guide is designed to hel
 
 ## Getting Started
 To begin, make sure you have Git installed on your system. You can download and install Git from [link](doc:https://git-scm.com/downloads#link)
+<a href="https://git-scm.com/downloa" target="_blank">link</a>
 Next, configure Git with your username and email address using the following commands:
 ```
 git config --global user.name "Your Name"
